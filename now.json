@@ -1,6 +1,6 @@
 {
   "name": "the-littoral-line",
-  "alias": ["thelittoralline.callumflack.design"],
+  "alias": ["newsletter.tiep.me"],
   "version": 2,
   "env": {
     "NODE_ENV": "production",

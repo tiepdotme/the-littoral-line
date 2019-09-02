@@ -2,11 +2,11 @@
 
 A newsletter about design, human attention and the web.
 
-So I own my writing, I create a website of posts published to [thelittoralline.callumflack.design](https://thelittoralline.callumflack.design) which is then imported into Mailchimp via URL.
+So I own my writing, I create a website of posts published to [thelittoralline.newsletter.tiep.me](https://thelittoralline.newsletter.tiep.me) which is then imported into Mailchimp via URL.
 
 Because the best writing tool for the web is markdown, I'm using Jekyll to build the site. There are other tools (MDX!) but none allow me to keep the simplicity of an old school CSS file. And I have some old projects on Jekyll, so I need to keep my hand in it.
 
-If you're interested in why I went to all this bother instead of simply writing in a platform, [read my blog post](https://callumflack.design/blog/how-to-publish-your-newsletter-so-you-own-your-writing).
+If you're interested in why I went to all this bother instead of simply writing in a platform, [read my blog post](https://newsletter.tiep.me/blog/how-to-publish-your-newsletter-so-you-own-your-writing).
 
 ## The newsletter writing process
 

@@ -14,7 +14,7 @@ To be honest with you, I really struggled writing this edition. Ideas are easy, 
 
 ### The best web publishing tools
 
-In [LL07 last month](https://thelittoralline.callumflack.design/LL07) I spoke about why we should use the best tools for the job. Rationally, why would you not? Thing is we’re mostly not rational. We're all quite good at using the shortest known route from A to B. If it works, it works. Why change? Why bother spending the time, money and effort to test out new tools?
+In [LL07 last month](https://thelittoralline.newsletter.tiep.me/LL07) I spoke about why we should use the best tools for the job. Rationally, why would you not? Thing is we’re mostly not rational. We're all quite good at using the shortest known route from A to B. If it works, it works. Why change? Why bother spending the time, money and effort to test out new tools?
 
 I wrote up some thoughts that relate to this bias and put them in the context of what I see as the changing paradigm of web development tools & publishing systems. It feels to me like many of the clients I work with know only one website publishing possibility I think they’re missing out on, well, the best tools for the job.
 
@@ -24,9 +24,9 @@ Turns out I'm not the only one who feels the need to tell people about theses ne
 
 > It was as fast, as custom, and as free of plugins as I could possibly make it, but WordPress is cumbersome, and there's only so fast and pleasant to use you can make it.<br>— [The End of an Era: Migrating from WordPress](https://www.taniarascia.com/migrating-from-wordpress-to-gatsby/)
 
-**Read:** [The paradigm shift in website publishing](https://callumflack.design/blog/the-paradigm-shift-in-website-publishing).
+**Read:** [The paradigm shift in website publishing](https://newsletter.tiep.me/blog/the-paradigm-shift-in-website-publishing).
 
-<!-- If you have a business website that your business relies on as your primary value proposition entry point, then it’s probably [worth reading](https://callumflack.design/blog/your-website-system-is-probably-wildly-out-of-date). Please do share if you think it might save others from another painful website. -->
+<!-- If you have a business website that your business relies on as your primary value proposition entry point, then it’s probably [worth reading](https://newsletter.tiep.me/blog/your-website-system-is-probably-wildly-out-of-date). Please do share if you think it might save others from another painful website. -->
 
 ### Strategy through the lens of conditions and consequences
 
@@ -40,7 +40,7 @@ I’ve been doing a reading club on strategy. We read books and pool notes on th
 
 > The Western model of Strategy is a rational means–end efficacy. In opposition, the Chinese mode can be described as paradoxical condition–consequence. … Opposed to the means-end mode where a goal leads to direct action in order to achieve a result, the condition-consequence mode is a process which transforms the situation by effects.
 
-**Read:** [Notes on "Deciphering Sun Tzu"](https://callumflack.design/blog/notes-on-deciphering-sun-tzu).
+**Read:** [Notes on "Deciphering Sun Tzu"](https://newsletter.tiep.me/blog/notes-on-deciphering-sun-tzu).
 
 <!-- By starting with the assumption of an unpredictable future outcome, the condition–consequence mode teaches one not to aim directly, as a first-order goal, but to allow an effect to happen, as a second-order effect.  -->
 

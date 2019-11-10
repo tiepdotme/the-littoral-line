@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Ramen Daily Line
-email: studio@tiep.me
+title: The Japanese Anime
+email: hello@vanmay.info
 description: >- # this means to ignore newlines until "baseurl:"
-  A newsletter about design, UX & the web thru the lens of people + attention. Discover adjacent possibles by exploring the atypical in-betweens that wash-up in the littoral zone.
+  Anime France Top 1 website.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chuyengiadinh.site" # the base hostname & protocol for your site, e.g. http://example.com

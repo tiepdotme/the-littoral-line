@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A newsletter about design, UX & the web thru the lens of people + attention. Discover adjacent possibles by exploring the atypical in-betweens that wash-up in the littoral zone.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://newsletter.tiep.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chuyengiadinh.site" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 permalink: /:title/

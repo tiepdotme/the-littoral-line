@@ -26,7 +26,7 @@ permalink: /:title/
 # http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html
 # I use draft instead, so I can schedule emails with their date of release
 future: true
-
+google_analytics: UA-148326773-1
 # Build settings
 markdown: kramdown
 theme: minima
